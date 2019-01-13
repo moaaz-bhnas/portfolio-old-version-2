@@ -1,6 +1,6 @@
 ## My Personal website
-Includes information about me, my portfolio and contact info.
-For the source code, check this [repo](https://github.com/moaaz-bhnas/portfolio-source-code)
+Includes information about me, my portfolio and contact info.  
+For the source code, check this [repo](https://github.com/moaaz-bhnas/portfolio-source-code).
 
 ## Live
 https://moaaz-bhnas.github.io/portfolio/
